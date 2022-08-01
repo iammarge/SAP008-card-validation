@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Tarjeta de crédito válida</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header>
+    <h1 id="title">Para finalização, insira os dados do seu cartão para validação</h1>
+  </header>
+  <main>
+    <div id="card">
+      <h2 id="cardTitle">Dados do cartão</h2>
+      <label for="cardNumber">NÚMERO DO CARTÃO:</label>
+      <input type="text" name="cardInputNumber" id="cardNumber" maxlength="16" placeholder="xxxx-xxxx-xxxx-xxxx">
+      <div id="cardChip">
+        <img src="img chip/chip.svg" alt="chip">
+      </div>
+      <label for="cardExpiry">VALID TRHU:</label>
+      <input type="text" name="cardDateExpiry" id="cardExpiry" maxlength="5" placeholder="xx-xx">
+      <label for="cardCcv">CCV:</label>
+      <input type="text" name="cardCcvNumber" id="cardCcv" maxlength="3" placeholder="xxx">
+    </div>
+  </main>
+  <br>
+  <input type="submit" id="bottom" value="Verificar">
+  <script src="index.js" type="module"></script>
+</body>
+<footer>
+  <p>&copy; Projeto Laboratória</p>
+</footer>
+
+</html>
