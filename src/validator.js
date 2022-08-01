@@ -1,5 +1,6 @@
 const validator = {
-  isValid(cardNumber) {
+  isValid: function (cardNumber) {
+    
     let sum = 0
 
     for (let i = cardNumber.length - 1; i >= 0; i--) {
