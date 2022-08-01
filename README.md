@@ -41,6 +41,7 @@ Qualquer pessoa que tenha um cartão de crédito e queira estar validando pela w
 
 O protótipo inicial é de baixa fidelidade, feito a mão, como um guia para o layout da página, que houve muitas mudanças até a forma final.
 <br>
+<br>
 ![image](https://user-images.githubusercontent.com/72046467/182254999-441ca379-1148-45e0-915a-4376fe3c3563.png)
 
 ## 5. Pontos para melhoria
