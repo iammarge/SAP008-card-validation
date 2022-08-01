@@ -19,7 +19,8 @@ O algoritmo é de domínio público e é amplamente utilizado hoje. É especific
 ## 2. Resumo do projeto
 
 O Projeto Card Validation foi desenvolvido para aplicação de aprendizagem no Bootcamp Laboratória, que permite o usuário validar o número de um cartão de crédito, utilizando o Algoritmo de Luhn.
- <b>Link de acesso ao site: https://iammarge.github.io/SAP008-card-validation/
+<br>
+<b>Link de acesso ao site: https://iammarge.github.io/SAP008-card-validation/<b>
 
 ## Descrição do Algoritmo de Luhn
 
